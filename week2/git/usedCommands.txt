@@ -1,0 +1,9 @@
+ Used commands 
+ :
+1- mkdir
+2- touch
+3- ls
+4-cat
+5->>
+6->
+echo
